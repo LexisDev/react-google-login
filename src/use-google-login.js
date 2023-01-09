@@ -101,6 +101,7 @@ const useGoogleLogin = ({
         window.gapi.load('auth2', () => {
           const GoogleAuth = window.gapi.auth2.getAuthInstance()
           if (!GoogleAuth) {
+            console.log('GITHUB TEST');
             window.gapi.auth2.init(params).then(
               res => {
                 if (!unmounted) {
