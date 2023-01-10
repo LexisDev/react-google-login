@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthonyjgrove/react-google-login.git"
+    "url": "git+https://github.com/lexisdev/react-google-login.git"
   },
   "keywords": [
     "react",
@@ -40,9 +40,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anthonyjgrove/react-google-login/issues"
+    "url": "https://github.com/lexisdev/react-google-login/issues"
   },
-  "homepage": "https://github.com/anthonyjgrove/react-google-login",
+  "homepage": "https://github.com/lexisdev/react-google-login",
   "dependencies": {
     "@types/react": "*",
     "prop-types": "^15.6.0"
